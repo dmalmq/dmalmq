@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dmalmq
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on OdinProject
+- 📫 How to reach me dnlmalmqvist@gmail.com
