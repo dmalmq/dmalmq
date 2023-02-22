@@ -2,6 +2,7 @@ Hi, I'm Daniel Malmqvist!
 
 I am a Software Engineer with a passion for Technology and learning new stuff!.
 
+
 Skills
 
 HTML
@@ -9,6 +10,7 @@ CSS
 JavaScript
 Ruby
 React
+
 
 Contact
 
