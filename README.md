@@ -2,7 +2,7 @@
 
 ### Fullstack Engineer
 
-- I'm currently working on react, typescript and ruby on rails
+- I'm currently working on react, typescript and ruby on rails projects
 - I'm currently learning rust and go
 - I really enjoy running, recently ran my first marathon
 
