@@ -1,20 +1,29 @@
-Hi, I'm Daniel Malmqvist!
+# Hello there 👋🏻, I'm Daniel Malmqvist
 
-I am a Software Engineer with a passion for Technology and learning new stuff!.
+### Fullstack Engineer
 
-Skills
+- I'm currently working on react, typescript and ruby on rails
+- I'm currently learning rust and go
+- I really enjoy running, recently ran my first marathon
 
-HTML  
-CSS   
-JavaScript  
-Ruby  
-React   
-
-Contact  
-
-If you have any questions or would like to get in touch with me, feel free to reach out via dnlmalmqvist@gmail.com or on Twitter @danielmalmqvist!
-
-Thanks for stopping by my page!
+<br/>
 
 
-
+<table>
+  <tr>
+    <th>My Website</th>
+    <th>My Blog</th>
+    <th>My CV</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="www.malmqvist.dev">
+    </td>
+    <td>
+      <a href="#">🌐</a>
+    </td>
+    <td>
+      <a href="#">📄</a>
+    </td>
+  </tr>
+</table>
