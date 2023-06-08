@@ -16,7 +16,7 @@
     <th>My CV</th>
   </tr>
   <tr>
-    <td>
+    <td style="text-align: center">
       <a href="www.malmqvist.dev">💻</a>
     </td>
     <td>
