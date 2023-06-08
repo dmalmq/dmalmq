@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td>
-      <a href="www.malmqvist.dev">
+      <a href="www.malmqvist.dev">💻</a>
     </td>
     <td>
       <a href="#">🌐</a>
