@@ -16,7 +16,7 @@
     <th>My CV</th>
   </tr>
   <tr>
-    <td style="text-align: center">
+    <td style="text-align: center;">
       <a href="www.malmqvist.dev">💻</a>
     </td>
     <td>
@@ -27,3 +27,8 @@
     </td>
   </tr>
 </table>
+
+### Contact me:
+<a href="https://twitter.com/danielmalmqvist"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/daniel-malmqvist-profile/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+
