@@ -12,15 +12,11 @@
 <table>
   <tr>
     <th>My Website</th>
-    <th>My Blog</th>
     <th>My CV</th>
   </tr>
   <tr>
     <td>
       <a href="http://www.malmqvist.dev">💻</a>
-    </td>
-    <td>
-      <a href="#">🌐</a>
     </td>
     <td>
       <a href="#">📄</a>
