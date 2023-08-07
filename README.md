@@ -3,7 +3,6 @@
 ### Fullstack Engineer
 
 - I'm currently working on react, typescript and ruby on rails projects
-- I'm currently learning rust and go
 - I really enjoy running, recently ran my first marathon
 
 <br/>
@@ -41,8 +40,6 @@
      <tr>
         <td>Backend Development Skills</td>
         <td>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" width="40" height="40"/></a>
         </td>
