@@ -109,12 +109,6 @@
 
   ---
 
-  ## Outside Work
-
-  I enjoy running, and I recently completed my first marathon.
-
-  ---
-
   <div align="center">
 
   Architectural detail → BIM systems → spatial data → usable digital products
