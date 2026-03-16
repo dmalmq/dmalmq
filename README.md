@@ -12,7 +12,7 @@
 
   <p>
     <a href="https://malmqvist.dev">
-      <img src="https://img.shields.io/badge/Website-malmqvist.dev-6e6a86?style=for-the-badge&logo=googlechrome&logoColor=ffffff" />
+      <img src="https://img.shields.io/badge/Website-malmqvist.dev-6e6a86?style=for-the-badge&logo=googlechrome&logoColor=ffffff"/>
     </a>
     <a href="https://malmqvist.dev/cv/resume-en.pdf">
       <img src="https://img.shields.io/badge/Resume-English_PDF-907aa9?style=for-the-badge&logo=readthedocs&logoColor=ffffff" />
